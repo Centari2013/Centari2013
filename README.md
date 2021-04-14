@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Centari2013
-- 👀 I’m a foodie and palnt enthusiast who loves technology in its many forms.
+- 👀 I’m a foodie and plant enthusiast who loves technology in its many forms.
 - 🌱 I’m currently learning C++, HTML, CSS, and Javascript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
