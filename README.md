@@ -1,7 +1,6 @@
 - 👋🏾  Heyo, I’m Zaria Burton aka Centari2013.
 - 😊  I’m a foodie and plant enthusiast who loves technology in its many forms.
-- 🌱  I’m currently learning C++, HTML, CSS, and Javascript.
-- 💞️  I’m looking to collaborate on anything really. The more the merrier!
+- 🌱  I am fluent in C++ and currently learning advanced data structures. 
 - 📫  Contact me at <zaria.burton2000@gmail.com> if you have any inquries.
 
 <!---
