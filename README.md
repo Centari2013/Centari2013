@@ -1,6 +1,6 @@
 - 👋🏾  Heyo, I’m Zaria Burton aka Centari2013.
 - 😊  I’m a foodie and plant enthusiast who loves technology in its many forms.
-- 🌱  I am fluent in C++ and am currently working on some hidden side projects.
+- 🌱  I am fluent in C++ and Python and am currently working on some hidden side projects in other languages that I'm learning.
 - 📫  Contact me at <zaria.burton2000@gmail.com> if you have any inquries.
 
 <!---
