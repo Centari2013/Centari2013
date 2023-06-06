@@ -1,6 +1,6 @@
 - 👋🏾  Heyo, I’m Zaria Burton, a software dev who's always ready to learn and grow. 
 - 😊  I’m a foodie and plant enthusiast.
-- 🌱  I am fluent in Python, MySQL, and C++. (Currently learning Java)
+- 🌱  I am fluent in Python, SQL, and C++.
 - 📫  Contact me at <zaria.burton2000@gmail.com> if you have any inquries.
 
 <!---
