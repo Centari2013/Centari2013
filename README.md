@@ -1,6 +1,6 @@
-- 👋🏾  Heyo, I’m Zaria Burton, an aspiring DevOps engineer who's always ready to learn and grow. 
+- 👋🏾  Heyo, I’m Zaria Burton, an aspiring Software Engineer who's always ready to learn and grow. 
 - 😊  I’m a foodie and plant enthusiast.
-- 🌱  Skill stack: Database Dev, Postgres, JS, Python, GraphQL
+- 🌱  Skill stack: Database Dev, Postgres, JS, Python, GraphQL, Vue.js, Vite, C++
 - 📫  Contact me at <zaria.burton2000@gmail.com> if you have any inquries.
 
 <!---
