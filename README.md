@@ -1,4 +1,4 @@
-Links of Note for Recruiters!
+Hey ya'll!
 - My Portfolio: https://centari2013.github.io/
 - Project SoundRoom: https://centari2013.github.io/SoundRoom
 
